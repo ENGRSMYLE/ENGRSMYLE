@@ -95,8 +95,11 @@ Comprehensive school management platform with role-based access control and real
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ENGRSMYLE&show_icons=true&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ENGRSMYLE&theme=radical)
+
+</div>
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ENGRSMYLE&layout=compact&theme=radical)
 
