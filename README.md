@@ -102,8 +102,6 @@ Comprehensive school management platform with role-based access control and real
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ENGRSMYLE&theme=radical)
 
-</div>
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ENGRSMYLE&theme=radical)
 
 </div>
