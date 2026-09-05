@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Engr Smyle | Python Software Engineer & AI Engineer
+# 👋 Engr Smyle | AI Engineer & Backend Developer
 
 **Building AI-Powered Solutions & Scalable Systems**
 
@@ -17,8 +17,8 @@ Python Software Engineer specializing in AI automation, backend systems, and clo
 
 ```typescript
 const engrSmyle = {
-  location: "Remote 🌍",
-  role: "Python Software Engineer",
+  location: "Remote 🌍 (EST hours)",
+  role: "AI Engineer & Backend Developer",
   focus: ["AI Automation", "Backend Development", "DevOps", "Cloud Architecture"],
   learning: ["Kubernetes", "GitOps", "LangGraph", "Advanced System Design"],
   askMeAbout: ["FastAPI", "Django", "Golang", "AI Integration", "Docker", "AWS"]
@@ -105,22 +105,6 @@ AI-powered career assistant that helps job seekers tailor their resumes to speci
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ENGRSMYLE&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ENGRSMYLE&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ENGRSMYLE&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ENGRSMYLE&theme=radical)
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - 🔨 Building custom AI voice pipelines with Twilio Media Streams, Deepgram, and ElevenLabs
@@ -135,7 +119,6 @@ AI-powered career assistant that helps job seekers tailor their resumes to speci
 - 🧠 AI Agent architectures and LLM orchestration
 - 🏗️ Microservices and distributed systems
 - ☁️ Cloud-native application development
-- 🔐 Blockchain integration and smart contracts
 
 ---
 
