@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Engr Smyle | Python Software Engineer
+# 👋 Engr Smyle | Python Software Engineer & AI Engineer
 
 **Building AI-Powered Solutions & Scalable Systems**
 
@@ -13,14 +13,13 @@
 
 ## 🚀 About Me
 
-Python Software Engineer based in Lagos, Nigeria, specializing in AI automation, backend systems, and cloud infrastructure. I build production-grade applications that solve real business problems with clean, scalable code.
+Python Software Engineer specializing in AI automation, backend systems, and cloud infrastructure. I build production-grade applications that solve real business problems with clean, scalable code — remotely, for clients worldwide.
 
 ```typescript
 const engrSmyle = {
-  location: "Lagos, Nigeria 🇳🇬",
+  location: "Remote 🌍",
   role: "Python Software Engineer",
   focus: ["AI Automation", "Backend Development", "DevOps", "Cloud Architecture"],
-  currentProject: "Custom AI voice receptionist systems for US home-service businesses",
   learning: ["Kubernetes", "GitOps", "LangGraph", "Advanced System Design"],
   askMeAbout: ["FastAPI", "Django", "Golang", "AI Integration", "Docker", "AWS"]
 };
