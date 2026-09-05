@@ -69,12 +69,12 @@ const engrSmyle = {
 
 ---
 
-## 🏆 Featured Project
+## 🏆 Featured Projects
 
 ### 📊 **EduMag** - School Management System
 Comprehensive school management platform with role-based access control and real-time features.
 
-**Stack:** NestJS • Next.js • Prisma • PostgreSQL • AWS (Amplify, EC2, RDS)
+**Stack:** Next.js • FastAPI • PostgreSQL • AWS (Amplify, EC2, RDS)
 
 **Features:**
 - Multi-role access control matrix
@@ -89,6 +89,20 @@ Comprehensive school management platform with role-based access control and real
 - PostgreSQL RDS for reliable data persistence
 - Amplify for frontend hosting with CI/CD
 - EC2 for backend API services
+
+---
+
+### 📄 **ResumeForge** - AI Career Assistant
+AI-powered career assistant that helps job seekers tailor their resumes to specific job descriptions and prepare for interviews.
+
+**Stack:** Next.js • FastAPI • Python • AI/LLM APIs
+
+**Features:**
+- Resume upload + job description analysis
+- Role requirement, skill, and keyword extraction
+- AI-tailored resume generation optimized for the target role
+- Personalized interview prep: likely technical & behavioral questions
+- Suggested answers and mock interview practice
 
 ---
 
